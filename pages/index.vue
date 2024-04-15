@@ -1,15 +1,15 @@
 <template>
     <div class="main-container">
-        <Header />
+        <Header id="home"/>
         <HeroAppointment />
-        <ServiceStyleTwo />
-        <TabSection />
+        <ServiceStyleTwo id="services"/>
+        <TabSection id="aboutUs"/>
         <TeamOne />
         <CtaOne />
         <CaseStudiesSection />
         <TestimonialTwo />
-        <FunFactTwo />
-        <ContactUs />
+        <FunFactTwo id="contactUs" />
+        <ContactUs/>
         <Footer />
         <OffCanvasMobileMenu />
     </div>

@@ -116,15 +116,6 @@
                                     </nav>
                                 </div>
                             </div>
-
-                            <div class="header-search-form ">
-                                <form class="search-form-top style-03 ">
-                                    <input class="search-field" type="text" placeholder="Search…">
-                                    <button class="search-submit">
-                                        <i class="search-btn-icon fa fa-search"></i>
-                                    </button>
-                                </form>
-                            </div>
                         </div>
                     </div>
                 </div>
