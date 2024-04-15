@@ -12,7 +12,7 @@
                     {{ service.desc }}
                 </div>
                 <div class="feature-btn">
-                    <nuxt-link :to="`/service/${service.slug}`">
+                    <nuxt-link :to="`/${service.slug}`">
                         <span class="button-text">Saber Mais</span>
                         <i class="fas fa-arrow-right ms-1"></i>
                     </nuxt-link>

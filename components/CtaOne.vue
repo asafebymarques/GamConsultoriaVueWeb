@@ -9,10 +9,10 @@
                 </div>
                 <div class="col-xl-4 col-lg-5">
                     <div class="cta-button-group--two text-center">
-                        <nuxt-link to="/contact" class="btn btn--white btn-one">
+                        <nuxt-link to="/#aboutUs" class="btn btn--white btn-one">
                             Saber Mais
                         </nuxt-link>
-                        <nuxt-link to="/about" class="btn btn--secondary btn-two">
+                        <nuxt-link to="/#contactUs" class="btn btn--secondary btn-two">
                             Contate-nos
                         </nuxt-link>
                     </div>

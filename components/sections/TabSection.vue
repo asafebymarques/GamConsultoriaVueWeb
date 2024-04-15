@@ -50,7 +50,7 @@
                                                 <li class="list-item">E outros</li>
                                             </ul>
                                             <div class="tab-button">
-                                                <nuxt-link to="/" class="btn-text">
+                                                <nuxt-link to="/#services" class="btn-text">
                                                     <span class="button-text">Saber mais <i class="fas fa-arrow-right ms-1"></i></span>
                                                 </nuxt-link>
                                             </div>

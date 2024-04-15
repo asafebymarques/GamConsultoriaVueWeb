@@ -16,32 +16,32 @@
             </a>
             <ul class="submenu">
                 <li>
-                    <a href="/service/softwares-and-apps">
+                    <a href="/softwares-and-apps">
                         <span>Desenvolvimento de Softwares e aplicativos</span>
                     </a>
                 </li>
                  <li>
-                    <a href="/service/ecommerces">
+                    <a href="/ecommerces">
                         <span>Lojas Virtuais e Ecommerces</span>
                     </a>
                 </li>
                  <li>
-                    <a href="/service/outsourcing">
+                    <a href="/outsourcing">
                         <span>Outsourcing</span>
                     </a>
                 </li>
                  <li>
-                    <a href="/service/tech-consulting">
+                    <a href="/tech-consulting">
                         <span>Consultoria em Tecnologia</span>
                     </a>
                 </li>
                  <li>
-                    <a href="/service/digital-marketing">
+                    <a href="/digital-marketing">
                         <span>Marketing Digital</span>
                     </a>
                 </li>
                  <li>
-                    <a href="/service/cybersecurity">
+                    <a href="/cybersecurity">
                         <span>Cibersegurança</span>
                     </a>
                 </li>

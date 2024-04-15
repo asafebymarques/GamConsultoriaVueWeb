@@ -18,10 +18,10 @@
                 </div>
                 <div class="col-lg-12">
                     <div class="feature-list-button-box mt-30 text-center">
-                        <nuxt-link to="/contact" class="ht-btn ht-btn-md">
+                        <nuxt-link to="/#aboutUs" class="ht-btn ht-btn-md">
                             Saber Mais
                         </nuxt-link>
-                        <nuxt-link to="/contact" class="ht-btn ht-btn-md ht-btn--outline">
+                        <nuxt-link to="/#contactUs" class="ht-btn ht-btn-md ht-btn--outline">
                            Contate-nos
                         </nuxt-link>
                     </div>
