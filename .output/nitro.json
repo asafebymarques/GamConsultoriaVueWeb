@@ -1,0 +1,14 @@
+{
+  "date": "2024-04-15T21:17:36.714Z",
+  "preset": "nitro-prerender",
+  "framework": {
+    "name": "nitro",
+    "version": "2.9.6"
+  },
+  "versions": {
+    "nitro": "2.9.6"
+  },
+  "commands": {
+    "preview": "npx serve ./public"
+  }
+}
