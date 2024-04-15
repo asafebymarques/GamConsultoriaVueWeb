@@ -3,19 +3,10 @@
         <div class="footer-area section-space--ptb_80">
             <div class="container">
                 <div class="row footer-widget-wrapper">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="col-lg-6 col-md-6 col-sm-6">
                         <FooterAbout :footerAbout="data.footerAboutData" />
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6">
-                        <FooterWidgetLink :title="data.footerWidgetTitleOne" :navLists="data.navListOne" />
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6">
-                        <FooterWidgetLink :title="data.footerWidgetTitleTwo" :navLists="data.navListTwo" />
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                        <FooterWidgetLink :title="data.footerWidgetTitleThree" :navLists="data.navListThree" />
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6">
+                    <div class="col-lg-6 col-md-4 col-sm-6">
                         <FooterWidgetApps :footerApps="data.footerAppData" />
                     </div>
                 </div>
