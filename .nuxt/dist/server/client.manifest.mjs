@@ -1,0 +1,1 @@
+export { default } from "file:///Users/asafebymarques/Downloads/26837132-mitech-vue-nuxt-js-technology-blog-template/mitech-v1.0.7/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
