@@ -1,16 +1,15 @@
 <template>
     <div class="main-container">
         <Header />
-        <HeroInfotechNo />
-        <BrandLogoCarousel />
-        <ServiceOne />
-        <InfoTechExperience />
-        <FunFact />
-        <CtaVideo />
+        <HeroAppointment />
+        <ServiceStyleTwo />
+        <TabSection />
+        <TeamOne />
+        <CtaOne />
         <CaseStudiesSection />
-        <TestimonialOne />
-        <BlogStyleOne />
-        <CtaContact />
+        <TestimonialTwo />
+        <FunFactTwo />
+        <ContactUs />
         <Footer />
         <OffCanvasMobileMenu />
     </div>
@@ -18,32 +17,29 @@
 
 <script>
     import Header from '@/components/Header';
-    import HeroInfotechNo from '@/components/HeroInfotechNo';
-    import BrandLogoCarousel from '@/components/BrandLogoCarousel';
-    import ServiceOne from '@/components/ServiceOne';
-    import InfoTechExperience from '@/components/sections/InfoTechExperience';
-    import FunFact from '@/components/FunFact';
-    import CtaVideo from '@/components/CtaVideo';
+    import HeroAppointment from '@/components/HeroAppointment';
+    import ServiceStyleTwo from '@/components/sections/ServiceStyleTwo';
+    import TabSection from '@/components/sections/TabSection';
+    import TeamOne from '@/components/sections/TeamOne';
+    import CtaOne from '@/components/CtaOne';
     import CaseStudiesSection from '@/components/sections/CaseStudiesSection';
-    import TestimonialOne from '@/components/sections/TestimonialOne';
-    import BlogStyleOne from '@/components/sections/BlogStyleOne';
-    import CtaContact from '@/components/CtaContact';
+    import TestimonialTwo from '@/components/sections/TestimonialTwo';
+    import FunFactTwo from '@/components/FunFactTwo';
+    import ContactUs from '@/components/sections/ContactUs';
     import Footer from '@/components/Footer';
     import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu';
-
     export default {
         components: {
             Header,
-            HeroInfotechNo,
-            BrandLogoCarousel,
-            ServiceOne,
-            InfoTechExperience,
-            FunFact,
-            CtaVideo,
+            HeroAppointment,
+            ServiceStyleTwo,
+            TabSection,
+            TeamOne,
+            CtaOne,
             CaseStudiesSection,
-            TestimonialOne,
-            BlogStyleOne,
-            CtaContact,
+            TestimonialTwo,
+            FunFactTwo,
+            ContactUs,
             Footer,
             OffCanvasMobileMenu
         }
