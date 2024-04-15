@@ -4,10 +4,7 @@
         <HeroAppointment />
         <ServiceStyleTwo id="services"/>
         <TabSection id="aboutUs"/>
-        <TeamOne />
         <CtaOne />
-        <CaseStudiesSection />
-        <TestimonialTwo />
         <FunFactTwo id="contactUs" />
         <ContactUs/>
         <Footer />
@@ -20,7 +17,6 @@
     import HeroAppointment from '@/components/HeroAppointment';
     import ServiceStyleTwo from '@/components/sections/ServiceStyleTwo';
     import TabSection from '@/components/sections/TabSection';
-    import TeamOne from '@/components/sections/TeamOne';
     import CtaOne from '@/components/CtaOne';
     import CaseStudiesSection from '@/components/sections/CaseStudiesSection';
     import TestimonialTwo from '@/components/sections/TestimonialTwo';
@@ -34,7 +30,6 @@
             HeroAppointment,
             ServiceStyleTwo,
             TabSection,
-            TeamOne,
             CtaOne,
             CaseStudiesSection,
             TestimonialTwo,

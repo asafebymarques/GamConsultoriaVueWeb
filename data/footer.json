@@ -1,10 +1,10 @@
 {
     "footerAboutData": {
-        "logo": "/images/logo/dark-logo-160x48.png",
-        "address": "58 Howard Street #2 San Francisco, CA 941",
-        "telephone": "0123456789",
-        "email": "contact@example.com",
-        "web": "www.example.com"
+        "logo": "/images/logo/dark-logo.png",
+        "address": "Rua Joaquim de Mello Freire Júnior, 311 - Vila Oliveira - Mogi das Cruzes - SP, 08790-330",
+        "telephone": "+55 (11) 5116-0526",
+        "email": "gam@gamconsultoria.com.br",
+        "web": "www.gamconsultoria.com.br"
     },
     "footerWidgetTitleOne": "IT Services",
     "navListOne": [
@@ -83,10 +83,10 @@
         "appleUrl": "https://www.apple.com/"
     },
     "footerBottom": {
-        "copyright": "© 2023 Mitech. All Rights Reserved.",
-        "fbUrl": "https://www.facebook.com",
-        "twitterUrl": "https://twitter.com",
-        "instagramUrl": "https://www.instagram.com",
-        "linkedinUrl": "https://www.linkedin.com"
+        "copyright": "© 2024 GamConsultoria. All Rights Reserved.",
+        "fbUrl": "https://www.facebook.com/gamconsultorianetwork",
+        "youtubeUrl": "https://www.youtube.com/channel/UCQ64MG6kInNsW9raqMBDKMw",
+        "instagramUrl": "https://www.instagram.com/GamNetwork",
+        "linkedinUrl": "https://www.linkedin.com/company/gamnetwork"
     }
 }

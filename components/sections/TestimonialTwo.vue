@@ -30,7 +30,6 @@
                                                     </div>
                                                     <div class="author-info">
                                                         <h6 class="name">{{ testimonial.name }}</h6>
-                                                        <span class="designation">{{ testimonial.designation }}</span>
                                                     </div>
                                                 </div>
                                             </div>

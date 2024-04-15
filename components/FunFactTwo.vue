@@ -2,7 +2,7 @@
     <div class="fun-fact-wrapper bg-theme-default section-space--pb_30 section-space--pt_60">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6 wow move-up" v-for="item in data.funfactOne" :key="item.id">
+                <div class="col-md-4 col-sm-6 wow move-up" v-for="item in data.funfactOne" :key="item.id">
                     <div class="fun-fact--two text-center">
                         <div class="fun-fact__count counter">
                             <span>{{ item.count }}</span>

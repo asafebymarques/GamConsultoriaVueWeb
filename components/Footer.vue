@@ -30,8 +30,8 @@
                     <div class="col-md-6 text-center text-md-end">
                         <ul class="list ht-social-networks solid-rounded-icon">
                             <li class="item">
-                                <a :href="data.footerBottom.twitterUrl" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
-                                    <i class="fab fa-twitter link-icon"></i>
+                                <a :href="data.footerBottom.youtubeUrl" target="_blank" aria-label="Youtube" class="social-link hint--bounce hint--top hint--primary">
+                                    <i class="fab fa-youtube link-icon"></i>
                                 </a>
                             </li>
                             <li class="item">

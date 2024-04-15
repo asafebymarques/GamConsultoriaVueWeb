@@ -7,12 +7,12 @@
         </li>
         <li>
             <a href="http://localhost:3000/#aboutUs">
-                <span>About Us</span>
+                <span>Sobre</span>
             </a>
         </li>
         <li class="has-children has-children--multilevel-submenu">
             <a href="http://localhost:3000/#services">
-                <span>Services</span>
+                <span>Serviços</span>
             </a>
             <ul class="submenu">
                 <li>
@@ -24,7 +24,7 @@
         </li>
         <li>
             <a href="http://localhost:3000/#contactUs">
-                <span>Contact</span>
+                <span>Contato</span>
             </a>
         </li>
         <!-- <li>

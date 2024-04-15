@@ -4,22 +4,16 @@
             <div class="row align-items-center">
                 <div class="col-xl-8 col-lg-7">
                     <div class="cta-content md-text-center">
-                        <h3 class="heading" v-html="data.ctaOne.title"></h3>
+                        <h4 class="heading" v-html="data.ctaOne.title"></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-5">
                     <div class="cta-button-group--two text-center">
                         <nuxt-link to="/contact" class="btn btn--white btn-one">
-                            <span class="btn-icon mr-2">
-                                <i class="far fa-comment-alt"></i>
-                            </span> 
-                            Let's talk
+                            Saber Mais
                         </nuxt-link>
                         <nuxt-link to="/about" class="btn btn--secondary btn-two">
-                            <span class="btn-icon mr-2">
-                                <i class="fas fa-info-circle"></i>
-                            </span> 
-                            Get info
+                            Contate-nos
                         </nuxt-link>
                     </div>
                 </div>

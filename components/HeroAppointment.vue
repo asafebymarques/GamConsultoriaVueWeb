@@ -9,7 +9,7 @@
                             <h1 class="font-weight--reguler text-white mb-30" v-html="data.heroAppointment.title"></h1>
                             <div class="hero-button">
                                 <div class="video-popup infotech-video-box">
-                                    <a href="https://www.youtube.com/watch?v=eS9Qm4AOOBY" target="_blank" class="single-popup-wrap video-link">
+                                    <a href="https://youtu.be/onOTGpDEBok?si=KKmkwfK5mSMUzDpd" target="_blank" class="single-popup-wrap video-link">
                                         <div class="video-content">
                                             <div class="ht-popup-video video-button">
                                                 <div class="video-mark">

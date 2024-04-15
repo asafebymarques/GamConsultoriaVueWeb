@@ -36,20 +36,20 @@
                                         >
                                             <swiper-slide class="info-item">
                                                 <div class="info-icon">
-                                                    <span class="fa fa-phone"></span>
+                                                    <span class="fa fa-map-marker-alt"></span>
                                                 </div>
                                                 <div class="info-content">
-                                                    <h6 class="info-title">0122 8899900</h6>
-                                                    <div class="info-sub-title">Info@example.com</div>
+                                                    <h6 class="info-title"><a href="https://maps.app.goo.gl/J3SZAFUMdEvCXJCe9" target="_blank"> Joaquim M. F Júnior 311 </a></h6>
+                                                    <div class="info-sub-title"><a href="https://maps.app.goo.gl/J3SZAFUMdEvCXJCe9" target="_blank"> Mogi das Cruzes - SP </a></div>
                                                 </div>
                                             </swiper-slide>
                                             <swiper-slide class="info-item">
                                                 <div class="info-icon">
-                                                    <span class="fa fa-map-marker-alt"></span>
+                                                    <span class="fa fa-phone"></span>
                                                 </div>
                                                 <div class="info-content">
-                                                    <h6 class="info-title">219 Amara Fort Apt. 394</h6>
-                                                    <div class="info-sub-title">New York, NY 941</div>
+                                                    <h6 class="info-title"><a href="tel:+551151160526"> +55 (11) 5116-0526 </a></h6>
+                                                    <div class="info-sub-title"><a href="mailto:gam@gamconsultoria.com.br"> gam@gamconsultoria.com.br</a></div>
                                                 </div>
                                             </swiper-slide>
                                             <swiper-slide class="info-item">
@@ -57,8 +57,8 @@
                                                     <span class="fa fa-clock"></span>
                                                 </div>
                                                 <div class="info-content">
-                                                    <h6 class="info-title">8:00AM - 6:00PM</h6>
-                                                    <div class="info-sub-title">Monday to Saturday</div>
+                                                    <h6 class="info-title">09:00 - 18:00</h6>
+                                                    <div class="info-sub-title">Segunda a Sexta</div>
                                                 </div>
                                             </swiper-slide>
                                             <swiper-slide class="info-item">
@@ -66,8 +66,8 @@
                                                     <span class="fa fa-comment-alt-lines"></span>
                                                 </div>
                                                 <div class="info-content">
-                                                    <h6 class="info-title">Online 24/7</h6>
-                                                    <div class="info-sub-title">+122 123 4567</div>
+                                                    <h6 class="info-title">Ligar Agora</h6>
+                                                    <div class="info-sub-title"><a href="tel:+551151160526"> +55 (11) 5116-0526 </a></div>
                                                 </div>
                                             </swiper-slide>
                                         </swiper>
@@ -77,17 +77,17 @@
                                 <!-- Header Social Networks -->
                                 <div class="header-social-networks style-icons">
                                     <div class="inner">
-                                        <a class=" social-link hint--black hint--bottom-left" aria-label="Twitter" href="https://twitter.com" data-hover="Twitter" target="_blank">
-                                            <i class="social-icon fab fa-twitter"></i>
-                                        </a>
-                                        <a class=" social-link hint--black hint--bottom-left" aria-label="Facebook" href="https://facebook.com" data-hover="Facebook" target="_blank">
+                                        <a class=" social-link hint--black hint--bottom-left" aria-label="Facebook" href="https://www.facebook.com/gamconsultorianetwork" data-hover="Facebook" target="_blank">
                                             <i class="social-icon fab fa-facebook-f"></i>
                                         </a>
-                                        <a class=" social-link hint--black hint--bottom-left" aria-label="Instagram" href="https://instagram.com" data-hover="Instagram" target="_blank">
+                                        <a class=" social-link hint--black hint--bottom-left" aria-label="Instagram" href="https://www.instagram.com/GamNetwork" data-hover="Instagram" target="_blank">
                                             <i class="social-icon fab fa-instagram"></i>
                                         </a>
-                                        <a class=" social-link hint--black hint--bottom-left" aria-label="Linkedin" href="https://linkedin.com" data-hover="Linkedin" target="_blank">
+                                        <a class=" social-link hint--black hint--bottom-left" aria-label="Linkedin" href="https://www.linkedin.com/company/gamnetwork" data-hover="Linkedin" target="_blank">
                                             <i class="social-icon fab fa-linkedin"></i>
+                                        </a>
+                                            <a class=" social-link hint--black hint--bottom-left" aria-label="Youtube" href="https://www.youtube.com/channel/UCQ64MG6kInNsW9raqMBDKMw" data-hover="Youtube" target="_blank">
+                                            <i class="social-icon fab fa-youtube"></i>
                                         </a>
                                     </div>
                                 </div>

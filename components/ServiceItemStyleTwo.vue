@@ -13,7 +13,7 @@
                 </div>
                 <div class="feature-btn">
                     <nuxt-link :to="`/service/${service.slug}`">
-                        <span class="button-text">Discover now</span>
+                        <span class="button-text">Saber Mais</span>
                         <i class="fas fa-arrow-right ms-1"></i>
                     </nuxt-link>
                 </div>

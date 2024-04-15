@@ -5,8 +5,8 @@
         "underHeading": "Challenges are just opportunities in disguise. "
     },
     "serviceStyleTwo": {
-        "sectionTitle": "Services We Deliver<br> we provide <span> truly prominent IT solutions.</span>",
-        "sectionSubTitle": "Industries we Serve"
+        "sectionTitle": "Na Gam Consultoria <br> Criamos soluções inovadoras para impulsionar o <br> <span> sucesso dos nossos clientes.</span>",
+        "sectionSubTitle": "O que fazemos?"
     },
     "serviceFour": {
         "sectionTitle": "For your very specific industry, <br> we have <span> highly-tailored IT solutions.</span>",
@@ -48,7 +48,7 @@
     "services": [
         {
             "id": 1,
-            "heading": "IT Design",
+            "heading": "Desenvolvimento de Softwares e aplicativos",
             "slug": "it-design",
             "desc": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
             "icon": "/images/icons/mitech-box-image-style-01-image-01-100x108.png"
@@ -91,45 +91,45 @@
 
         {
             "id": 7,
-            "heading": "IT Design",
-            "slug": "it-design-01",
-            "desc": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
-            "icon": "/images/svg/linea-basic-heart.png"
+            "heading": "Desenvolvimento de Softwares e aplicativos",
+            "slug": "softwares-and-apps",
+            "desc": "Desenvolvemos softwares e aplicativos personalizados, atendendo às necessidades específicas de cada cliente com soluções tecnológicas inovadoras.",
+            "icon": "/images/svg/desenvolvedor-de-software.svg"
         },
         {
             "id": 8,
-            "heading": "IT Management",
-            "slug": "it-management-01",
-            "desc": "It’s possible to simultaneously manage and transform information from one server to another.",
-            "icon": "/images/svg/linea-basic-case.png"
+            "heading": "Lojas Virtuais e Ecommerces",
+            "slug": "ecommerces",
+            "desc": "Desenvolvemos lojas virtuais e e-commerces personalizados, impulsionando o sucesso online de nossos clientes com soluções tecnológicas inovadoras.",
+            "icon": "/images/svg/ecommerce.svg"
         },
         {
             "id": 9,
-            "heading": "Data Security",
-            "slug": "data-security-01",
-            "desc": "Back up your database, store in a safe and secure place while still maintaining its accessibility.",
-            "icon": "/images/svg/linea-basic-alarm.png"
+            "heading": "Outsourcing",
+            "slug": "outsourcing",
+            "desc": "Oferecemos serviços de outsourcing de TI, proporcionando soluções tecnológicas personalizadas para empresas de todos os tamanhos.",
+            "icon": "/images/svg/outsourcing.svg"
         },
         {
             "id": 10,
-            "heading": "Business Reform",
-            "slug": "business-reform-02",
-            "desc": "It’s possible to simultaneously manage and transform information from one server to another.",
-            "icon": "/images/svg/linea-basic-geolocalize-05.png"
+            "heading": "Consultoria em Tecnologia",
+            "slug": "tech-consulting",
+            "desc": "Nossa consultoria em tecnologia ajuda empresas a alcançar seus objetivos por meio de soluções inovadoras e eficientes.",
+            "icon": "/images/svg/servicos-de-consultor.svg"
         },
         {
             "id": 11,
-            "heading": "Infrastructure Plan",
-            "slug": "infrastructure-plan-02",
-            "desc": "Back up your database, store in a safe and secure place while still maintaining its accessibility.",
-            "icon": "/images/svg/linea-ecommerce-money.png"
+            "heading": "Marketing Digital",
+            "slug": "digital-marketing",
+            "desc": "Somos especializados em marketing digital, impulsionando a presença online e o crescimento de empresas com estratégias eficazes e personalizadas.",
+            "icon": "/images/svg/midia-social.svg"
         },
         {
             "id": 12,
-            "heading": "Firewall Advance",
-            "slug": "firewall-advance-03",
-            "desc": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
-            "icon": "/images/svg/linea-basic-spread-text-bookmark.png"
+            "heading": "Cibersegurança",
+            "slug": "cybersecurity",
+            "desc": "Oferecemos soluções abrangentes de cibersegurança, protegendo empresas contra ameaças digitais e garantindo a segurança de seus dados e sistemas.",
+            "icon": "/images/svg/ciber-seguranca.svg"
         },
         {
             "id": 13,
@@ -148,24 +148,24 @@
 
         {
             "id": 15,
-            "heading": "Quality Assurance System",
-            "slug": "quality-assurance-system",
-            "desc": "Back up your database, store in a safe and secure place while still maintaining its accessibility.",
-            "image": "/images/blog/blog-01-370x230.jpg"
+            "heading": "Desenvolvimento de Softwares e aplicativos",
+            "slug": "softwares-and-apps",
+            "desc": "Desenvolvemos softwares e aplicativos personalizados, atendendo às necessidades específicas de cada cliente com soluções tecnológicas inovadoras.",
+            "icon": "/images/svg/desenvolvedor-de-software.svg"
         },
         {
             "id": 16,
-            "heading": "Highly Professional Staffs",
-            "slug": "highly-professional-staffs",
-            "desc": "Having obtained the official & formal training in IT technology and technical fields, our staffs know best.",
-            "image": "/images/blog/blog-02-370x230.jpg"
+            "heading": "Marketing Digital",
+            "slug": "digital-marketing",
+            "desc": "Somos especializados em marketing digital, impulsionando a presença online e o crescimento de empresas com estratégias eficazes e personalizadas.",
+            "icon": "/images/svg/midia-social.svg"
         },
         {
             "id": 17,
-            "heading": "Info Security Management",
-            "slug": "info-security-management",
-            "desc": "Back up your database, store in a safe and secure place while still maintaining its accessibility.",
-            "image": "/images/blog/blog-03-370x230.jpg"
+            "heading": "Consultoria em Tecnologia",
+            "slug": "tech-consulting",
+            "desc": "Nossa consultoria em tecnologia ajuda empresas a alcançar seus objetivos por meio de soluções inovadoras e eficientes.",
+            "icon": "/images/svg/servicos-de-consultor.svg"
         },
 
         {

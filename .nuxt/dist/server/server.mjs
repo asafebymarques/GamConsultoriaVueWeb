@@ -1,1 +1,1 @@
-export { default } from "file:///C:/Users/linkm/Documents/gam/GamConsultoriaVueWeb/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///Users/asafebymarques/Downloads/26837132-mitech-vue-nuxt-js-technology-blog-template/mitech-v1.0.7/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

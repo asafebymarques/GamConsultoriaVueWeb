@@ -19,10 +19,10 @@
                 <div class="col-lg-12">
                     <div class="feature-list-button-box mt-30 text-center">
                         <nuxt-link to="/contact" class="ht-btn ht-btn-md">
-                            Talk to a consultant
+                            Saber Mais
                         </nuxt-link>
                         <nuxt-link to="/contact" class="ht-btn ht-btn-md ht-btn--outline">
-                            Contact us now
+                           Contate-nos
                         </nuxt-link>
                     </div>
                 </div>

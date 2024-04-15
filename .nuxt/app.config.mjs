@@ -1,5 +1,5 @@
 
-import { defuFn } from 'C:/Users/linkm/Documents/gam/GamConsultoriaVueWeb/node_modules/defu/dist/defu.mjs'
+import { defuFn } from '/Users/asafebymarques/Downloads/26837132-mitech-vue-nuxt-js-technology-blog-template/mitech-v1.0.7/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 

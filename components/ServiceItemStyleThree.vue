@@ -11,7 +11,7 @@
                 <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
                 </div>
                 <div class="box-images-arrow">
-                    <span class="button-text">Discover now</span>
+                    <span class="button-text">Saber Mais</span>
                     <i class="fas fa-arrow-right ms-1"></i>
                 </div>
             </div>
