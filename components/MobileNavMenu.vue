@@ -2,144 +2,57 @@
     <div class="mobile-navigation">
         <nav class="offcanvas-navigation" id="offcanvas-navigation">
             <ul>
+                <li>
+                    <nuxt-link to="/#home">Home</nuxt-link>
+                </li>
+                <li>
+                    <nuxt-link to="/#aboutUs">
+                        <span>Sobre</span>
+                    </nuxt-link>
+                </li>
                 <li class="menu-item-has-children">
-                    <nuxt-link to="/">Home</nuxt-link>
+                    <nuxt-link to="/#services">
+                        <span>Serviços</span>
+                    </nuxt-link>
                     <ul class="sub-menu">
                         <li>
-                            <nuxt-link to="/">
-                                <span>Info Technology</span>
+                            <nuxt-link to="/softwares-and-apps">
+                                <span>Desenvolvimento de Softwares e aplicativos</span>
                             </nuxt-link>
                         </li>
                         <li>
-                            <nuxt-link to="/processing">
-                                <span>Processing</span>
+                            <nuxt-link to="/ecommerces">
+                                <span>Lojas Virtuais e Ecommerces</span>
                             </nuxt-link>
                         </li>
                         <li>
-                            <nuxt-link to="/appointment">
-                                <span>Appointment</span>
+                            <nuxt-link to="/outsourcing">
+                                <span>Outsourcing</span>
                             </nuxt-link>
                         </li>
                         <li>
-                            <nuxt-link to="/service">
-                                <span>Services</span>
+                            <nuxt-link to="/tech-consulting">
+                                <span>Consultoria em Tecnologia</span>
                             </nuxt-link>
                         </li>
                         <li>
-                            <nuxt-link to="/resolutions">
-                                <span>Resolutions</span>
+                            <nuxt-link to="/digital-marketing">
+                                <span>Marketing Digital</span>
                             </nuxt-link>
                         </li>
                         <li>
                             <nuxt-link to="/cybersecurity">
-                                <span>Cybersecurity</span>
-                            </nuxt-link>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <nuxt-link to="/about">
-                        <span>Company</span>
-                    </nuxt-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <nuxt-link to="/about">
-                                <span>About Us</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/contact">
-                                <span>Contact Us</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/leadership">
-                                <span>Leadership</span>
-                            </nuxt-link>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <nuxt-link to="/it-services">
-                        <span>Services</span>
-                    </nuxt-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <nuxt-link to="/it-services">
-                                <span>IT Services</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/it-solutions">
-                                <span>IT Solutions</span>
-                            </nuxt-link>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <nuxt-link to="/">
-                        <span>Elements</span>
-                    </nuxt-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <nuxt-link to="/element/accordion">
-                                <span>Accordion</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/element/box-icon">
-                                <span>Box Icon</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/element/box-image">
-                                <span>Box Image</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/element/box-large-image">
-                                <span>Box Large Image</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/element/call-to-action">
-                                <span>Call To Action</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/element/counters">
-                                <span>Counters</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/element/gradation">
-                                <span>Gradation</span>
-                            </nuxt-link>
-                        </li>
-                        <li>
-                            <nuxt-link to="/element/teams">
-                                <span>Teams</span>
+                                <span>Cibersegurança</span>
                             </nuxt-link>
                         </li>
                     </ul>
                 </li>
                 <li>
-                    <nuxt-link to="/case-studies">
-                        <span>Case Studies</span>
+                    <nuxt-link to="/#contactUs">
+                        <span>Contato</span>
                     </nuxt-link>
                 </li>
-                <li class="menu-item-has-children">
-                    <nuxt-link to="/blog">
-                        <span>Blog</span>
-                    </nuxt-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <nuxt-link to="/blog/blog-details">
-                                <span>Blog Details</span>
-                            </nuxt-link>
-                        </li>
-                    </ul>
-                </li>
+                
             </ul>
         </nav>
     </div>
