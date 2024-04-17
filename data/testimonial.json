@@ -1,33 +1,33 @@
 {
-    "sectionTitle": "Why do people praise about<span> Mitech?</span>",
-    "sectionSubTitle": "Testimonials",
+    "sectionTitle": "O que nossos clientes dizem sobre a <br><span> Gam Consultoria?</span>",
+    "sectionSubTitle": "Avaliações",
     "testimonials": [
         {
-            "subject": "The Mitech team works really hard to ensure high level of quality",
-            "desc": "There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident.",
-            "thumb": "/images/testimonial/testimonial-01-70x70.jpg",
-            "name": "Maggie Strickland",
-            "designation": ""
-        },
-        {
-            "subject": "The Mitech team works really hard to ensure high level of quality",
-            "desc": "I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.",
-            "thumb": "/images/testimonial/testimonial-02-70x70.jpg",
-            "name": "Robert Amplilian",
-            "designation": ""
-        },
-        {
-            "subject": "The Mitech team works really hard to ensure high level of quality",
-            "desc": "There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident.",
+            "subject": "A GAM CONSULTORIA é verdadeiramente uma joia entre as empresas de consultoria em software. Sua equipe demonstra um profissionalismo exemplar e um compromisso inigualável com a excelência em cada interação. Desde o entendimento das nossas necessidades específicas até a entrega de soluções inovadoras e de alta qualidade, sua dedicação é evidente em cada etapa do processo. Recomendo fortemente a GAM CONSULTORIA para qualquer pessoa em busca de resultados excepcionais e uma experiência de consultoria sem igual.",
+            "desc": "A GAM CONSULTORIA é verdadeiramente uma joia entre as empresas de consultoria em software. Sua equipe demonstra um profissionalismo exemplar e um compromisso inigualável com a excelência em cada interação. Desde o entendimento das nossas necessidades específicas até a entrega de soluções inovadoras e de alta qualidade, sua dedicação é evidente em cada etapa do processo. Recomendo fortemente a GAM CONSULTORIA para qualquer pessoa em busca de resultados excepcionais e uma experiência de consultoria sem igual.",
             "thumb": "/images/testimonial/testimonial-03-70x70.jpg",
-            "name": "Stephen Mearsley",
+            "name": "Miguel Estevão",
             "designation": ""
         },
         {
-            "subject": "The Mitech team works really hard to ensure high level of quality",
-            "desc": "I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.",
+            "subject": "A Gam Consultoria é verdadeiramente uma referência entre as empresas de consultoria em tecnologia da informação. Sua equipe demonstra um profissionalismo exemplar e um compromisso inigualável com a excelência em cada interação. Desde o entendimento das necessidades específicas de seus clientes até a entrega de soluções inovadoras e de alta qualidade, a dedicação da Gam Consultoria é evidente em cada etapa do processo. Recomendo fortemente a Gam Consultoria para qualquer pessoa em busca de resultados excepcionais e uma experiência de consultoria sem igual.",
+            "desc": "A Gam Consultoria é verdadeiramente uma referência entre as empresas de consultoria em tecnologia da informação. Sua equipe demonstra um profissionalismo exemplar e um compromisso inigualável com a excelência em cada interação. Desde o entendimento das necessidades específicas de seus clientes até a entrega de soluções inovadoras e de alta qualidade, a dedicação da Gam Consultoria é evidente em cada etapa do processo. Recomendo fortemente a Gam Consultoria para qualquer pessoa em busca de resultados excepcionais e uma experiência de consultoria sem igual.",
+            "thumb": "/images/testimonial/testimonial-01-70x70.jpg",
+            "name": "Carlos Eduardo Almeida da Silva",
+            "designation": ""
+        },
+        {
+            "subject": "A Gam Consultoria é uma empresa de consultoria em software que se destaca pela sua experiência e comprometimento com a excelência. Sua equipe demonstra um profissionalismo exemplar, garantindo que cada interação seja produtiva e focada em encontrar as melhores soluções para os clientes. Desde a análise inicial até a entrega final, a Gam Consultoria se esforça para superar as expectativas, tornando-se uma escolha ideal para quem busca resultados excepcionais.",
+            "desc": "A Gam Consultoria é uma empresa de consultoria em software que se destaca pela sua experiência e comprometimento com a excelência. Sua equipe demonstra um profissionalismo exemplar, garantindo que cada interação seja produtiva e focada em encontrar as melhores soluções para os clientes. Desde a análise inicial até a entrega final, a Gam Consultoria se esforça para superar as expectativas, tornando-se uma escolha ideal para quem busca resultados excepcionais.",
+            "thumb": "/images/testimonial/testimonial-02-70x70.jpg",
+            "name": "Lucas Mello",
+            "designation": ""
+        },
+        {
+            "subject": "A Gam Consultoria é uma joia entre as empresas de consultoria em software, oferecendo soluções sob medida para cada cliente. Sua equipe dedicada e comprometida com a excelência garante que cada projeto seja tratado com o máximo cuidado e atenção aos detalhes. Se você está em busca de uma consultoria que ofereça resultados excepcionais e uma experiência única, recomendo fortemente a Gam Consultoria.",
+            "desc": "A Gam Consultoria é uma joia entre as empresas de consultoria em software, oferecendo soluções sob medida para cada cliente. Sua equipe dedicada e comprometida com a excelência garante que cada projeto seja tratado com o máximo cuidado e atenção aos detalhes. Se você está em busca de uma consultoria que ofereça resultados excepcionais e uma experiência única, recomendo fortemente a Gam Consultoria.",
             "thumb": "/images/testimonial/testimonial-04-70x70.jpg",
-            "name": "Monica Blews",
+            "name": "Genivaldo Euclides Marques",
             "designation": ""
         }
     ]

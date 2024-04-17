@@ -48,7 +48,7 @@
             </ul>
         </li>
         <li>
-            <a href="/#contactUs">
+            <a href="/contact">
                 <span>Contato</span>
             </a>
         </li>

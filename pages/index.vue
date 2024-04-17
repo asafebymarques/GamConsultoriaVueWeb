@@ -9,6 +9,7 @@
         <ServiceStyleTwo id="services"/>
         <TabSection id="aboutUs"/>
         <CtaOne />
+        <TestimonialTwo/>
         <FunFactTwo id="contactUs" />
         <ContactUs/>
         <Footer />

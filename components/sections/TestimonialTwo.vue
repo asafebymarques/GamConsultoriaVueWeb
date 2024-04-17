@@ -17,9 +17,6 @@
                                     <swiper-slide v-for="testimonial in data.testimonials" :key="testimonial.id">
                                         <div class="testimonial-slider__one wow move-up">
                                             <div class="testimonial-slider--info">
-                                                <div class="testimonial-slider__media">
-                                                    <img :src="testimonial.thumb" class="img-fluid" alt="client thumbnail">
-                                                </div>
                                                 <div class="testimonial-slider__author">
                                                     <div class="testimonial-rating">
                                                         <span class="fa fa-star"></span>
