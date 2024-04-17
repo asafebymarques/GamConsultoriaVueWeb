@@ -6,10 +6,10 @@
                     <div class="col-lg-6 col-lg-6">
                         <div class="conact-us-wrap-one mb-30">
                             <h3 class="heading">
-                                To make requests for <br>further information, <br><span class="text-color-primary">contact us</span> via our social channels. 
+                                Entre em Contato Conosco
                             </h3>
                             <div class="sub-heading">
-                                We just need a couple of hours! <br> No more than 2 working days since receiving your issue ticket.
+                                Estamos aqui para ajudar você a impulsionar o sucesso de seu negócio com soluções de tecnologia inovadoras e eficazes. Entre em contato conosco hoje mesmo para agendar uma consulta ou para saber mais sobre nossos serviços. Nossa equipe de especialistas está pronta para atender às suas necessidades e ajudar a transformar suas ideias em realidade digital. A Gam Consultoria é o seu parceiro confiável em tecnologia.
                             </div>
                         </div>
                     </div>
@@ -20,20 +20,17 @@
                                 <div class="contact-form">
                                     <div class="contact-input">
                                         <div class="contact-inner">
-                                            <input name="con_name" type="text" placeholder="Name *">
+                                            <input name="con_name" type="text" placeholder="Nome *">
                                         </div>
                                         <div class="contact-inner">
                                             <input name="con_email" type="email" placeholder="Email *">
                                         </div>
                                     </div>
-                                    <div class="contact-inner">
-                                        <input name="con_subject" type="text" placeholder="Subject *">
-                                    </div>
                                     <div class="contact-inner contact-message">
-                                        <textarea name="con_message" placeholder="Please describe what you need."></textarea>
+                                        <textarea name="con_message" placeholder="Mensagem..."></textarea>
                                     </div>
                                     <div class="submit-btn mt-20">
-                                        <button class="ht-btn ht-btn-md" type="submit">Send message</button>
+                                        <button class="ht-btn ht-btn-md" type="submit">Enviar</button>
                                     </div>
                                 </div>
                             </form>
