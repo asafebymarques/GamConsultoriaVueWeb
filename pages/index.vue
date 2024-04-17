@@ -1,4 +1,8 @@
 <template>
+    <Head>
+        <Title>Home | Gam Consultoria</Title>
+        <Meta name="description" :content="title" />
+    </Head>
     <div class="main-container">
         <Header id="home"/>
         <HeroAppointment />

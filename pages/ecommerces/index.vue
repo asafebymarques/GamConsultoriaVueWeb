@@ -1,4 +1,8 @@
 <template>
+    <Head>
+        <Title>Ecommerces | Gam Consultoria</Title>
+        <Meta name="description" :content="title" />
+      </Head>
     <div class="main-container">
 
         <Header />

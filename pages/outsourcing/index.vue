@@ -1,4 +1,8 @@
 <template>
+    <Head>
+        <Title>Outsourcing | Gam Consultoria</Title>
+        <Meta name="description" :content="title" />
+      </Head>
     <div class="main-container">
 
         <Header />

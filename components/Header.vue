@@ -1,8 +1,4 @@
 <template>
-    <Head>
-      <Title>Home | Gam Consultoria</Title>
-      <Meta name="description" :content="title" />
-    </Head>
     <div class="header-area header-sticky">
         <div class="container">
             <div class="row">

@@ -1,4 +1,8 @@
 <template>
+    <Head>
+        <Title>Desenvolvimento de Software e Apps | Gam Consultoria</Title>
+        <Meta name="description" :content="title" />
+      </Head>
     <div class="main-container">
 
         <Header />
